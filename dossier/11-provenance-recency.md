@@ -116,3 +116,20 @@ hand with page; Jake's spot-check against the scan/his copy converts each to a `
 - New primary material located, unextracted: **Vendovi's leave-taking with his brothers**
   (v3 chapter head — debt #1); **"Imprudence of Lieutenant Underwood"** pre-Malolo episode
   (v3 — cast want #9); the captured cutter in Sualib Bay as Malolo context.
+
+**Press-harvest additions (2026-07-07, `research/press-harvest.md`):**
+- **The Wilkes sentence, verbatim** — Upshur, Navy Dept., Sept. 22, 1842, via Niles'
+  Register Oct. 1, 1842: "a command far above the just claims of your rank… the rights of
+  others of her citizens… the mildest form in which she could express her displeasure."
+  One OCR-bridged clause ⚑ verify against scan before base use.
+- ⚑ **NEW EVENT: four marines sued Wilkes in U.S. civil court, Sept. 1842** (Niles' Sept.
+  17) — absent from the base; outcome unknown; follow in later issues.
+- ⚑ **Court roster to verify**: "Barron, Stewart, Biddle, Downes, Tatnall" + "lieutenant
+  comd't. Reynolds" among the recriminating trials (Niles' July 23) — identify before any
+  use; OCR-garbled names.
+- **Wilkes requested the court himself** (Niles' July 23, crediting N.Y. Journal of
+  Commerce) — corroborate against trial record.
+- **The National Institution lecture, ~June 20, 1842** — Wilkes vindicating the
+  discoveries pre-trial, Poinsett present (Niles' June 25) [VERIFY date].
+- **Paulding's private instructions of Dec. 1839 published mid-trial** (Niles' Aug. 20);
+  **Johnson acquitted** of Wilkes' "wasting the public property" charge (same issue).
