@@ -157,3 +157,15 @@ cost-side only (forms 1+2; never choreography).
 simultaneously the dignity rule and the dread. Marked **pending** on the whereabouts check
 (11).
 **Reversal cost.** None until drafting; afterward, a rebuilt centerpiece chapter.
+
+### 2026-07-07 — Remote history replaced; prior remote state archived as tags
+**Decision.** Pushed the real history to `origin/main` (`--force-with-lease`), superseding the
+setup entry's "not yet done." Before overwriting, the remote was found to hold one commit
+beyond the stub — a web-UI upload (`files.zip`) containing an *earlier* delivery of the
+manuscript (same underlying commits, pre-dossier CLAUDE.md, no dossier/ or prompts/). Its
+contents were diffed against local history: nothing unique. Both prior remote states are
+preserved as tags: `archive/stub-initial` (the empty stub) and `archive/remote-upload` (the
+zip upload).
+**Why.** Provenance-by-commit makes the real history load-bearing; the upload was a redundant,
+older snapshot — but nothing is deleted, only demoted to tags.
+**Reversal cost.** None. `git checkout archive/remote-upload` recovers the uploaded state.
