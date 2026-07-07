@@ -169,3 +169,20 @@ zip upload).
 **Why.** Provenance-by-commit makes the real history load-bearing; the upload was a redundant,
 older snapshot — but nothing is deleted, only demoted to tags.
 **Reversal cost.** None. `git checkout archive/remote-upload` recovers the uploaded state.
+
+### 2026-07-07 — The research/ harvest tool established (Fable pass 4)
+**Decision.** Created `research/` — the combined primary-source layer beneath the base:
+`erskine-harvest.md` (direct page-cited harvest of the public-domain 1896 text; verified
+extracts + coverage map + anchor table + continuation protocol), `reynolds-digest.md`
+(Jake's Play Books export structured with Penguin page refs), `drive-archive-digest.md`
+(Jake's Drive corpus inventoried, reconciled, and its errors marked dead), and a README
+whose one rule governs everything: **a note without a page is a lead, not a fact.**
+Erskine/Wikisource page-cite convention fixed (printed p. n = djvu p. n+17); quotes entering
+the base must be spot-verified against the scan.
+**Why.** The author asked for a comprehensive reference tool combining his research with
+direct study of the primaries. First extractions immediately corrected the base's
+crown-jewel scene geometry (the pin: deck level, cabin skylight, Wilkes at a table, the
+weather roll — TYBTM pp. 19–20) and settled soft spots (Bowditch ~p. 10; Boyle; the hat at
+the bridge draw; "foul scamp" wording; Case & Knox) — proof the layer earns its keep.
+**Reversal cost.** Low structurally (additive directory). The findings, once committed as
+`fact:` changes, are governed by the normal commit history.

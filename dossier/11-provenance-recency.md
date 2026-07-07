@@ -59,3 +59,45 @@ without a source in hand.
 
 *(§3 soft-spot rows still to be built when Commission J runs — this table is the passes'
 found-items ledger, not the full operationalization.)*
+
+## Harvest updates (2026-07-07, research/ tool established)
+
+The primary-source harvest (see `research/`) moved these items. "Settled" = primary text in
+hand with page; Jake's spot-check against the scan/his copy converts each to a `fact:` commit.
+
+**Settled or corrected by Erskine's text (TYBTM, pages in `research/erskine-harvest.md`):**
+- Bowditch scene: **~p. 10, not ~p. 224**; reported speech ("our charts were the neatest he
+  had ever seen"); State Street office. Base quote form needs adjusting.
+- The wet letters: **hat knocked overboard at a bridge draw** (letters in his tarpaulin hat)
+  — base's schooner-bumps-boat mechanism is wrong. He explained ashore, near the dry dock.
+- **Lieutenant Boyle** ordered the flogging; "sixty-two-pound Paxon gun" is Erskine's own
+  wording; colt carried in boatswain's mates' hats.
+- **The pin scene (crown jewel): geometry and clock corrected** — deck level, lee-quarter
+  lookout, cabin skylight, Wilkes *seated at a table tracing a chart*, pin timed to the
+  weather roll; **Aug 29, Tropic of Cancer, long. 4°W, eight bells midnight**; cottonwood
+  sighted at sunrise the same night. Base ch. 1's mizzen-top/quarterdeck version does not
+  match the primary. (Erskine *was* a mizzen-topman by station — the likely conflation.)
+- "I remembered my oath" — an unlocated sworn-revenge plant exists post-flogging; find it.
+
+**Settled by Jake's Reynolds export (Penguin pages in `research/reynolds-digest.md`):**
+- "Foul scamp" entry: full wording confirmed [117], incl. "the People at Home would not
+  approve of the [out]lay" and "Four sycophants cling to him—" (sycophants' names: next
+  line, unexported — full-read target).
+- Tuetila episode wording [109]; **Underwood as the messenger** is primary-sourced.
+- The five-minutes suspension: witnesses are **Lieutenant Case and Mr. Knox** [111]; the
+  order came without "to go below"; second order confined him to his apartment.
+- David Smith [109]; the sailing entry's trimmed second half [15]; the Sept 13 order [15].
+
+**New flags raised:**
+- ⚑ "Bitter dose" attribution may be inverted in the base (act_3 ch. 18): Reynolds' [86]
+  has *Wilkes* receiving the bitter dose in officer correspondence.
+- ⚑ Tahiti (Erskine, unpaged): deserters returned by Tahitians, "36 lashes with the cat,"
+  mutiny talk — a flogging event absent from the base; page-confirm before use.
+- ⚑ Named sailor deaths absent from the base: Oldin, Ogle, G. Reynolds (Erskine timeline;
+  page-confirm) — the mortal ledger wants them.
+- ⚑ Reynolds [97]: Wilkes' mistreatment of an unidentified "white man previously diseased"
+  — episode unknown to the base; identify during full read.
+- Witness-memory errors to hold as errors: Erskine's *Sea Gull* "~20" dead (actual 15);
+  timeline's Jan 22 for the *Peacock* ice strike (record: Jan 24).
+- Dead note (never re-admit): "iron hulls fitted to crush ice" (Ex. Ex. References doc) —
+  contradicts the verified unstrengthened-hulls record.
