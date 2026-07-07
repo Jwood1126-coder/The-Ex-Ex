@@ -222,3 +222,25 @@ the epic and the double ledger in the same hand.
 **Reversal cost.** Low — one additive file; every provisional choice lists its fallback
 (F1 if F2 falls; generic-forecastle camera if Erskine starves the traverse; direct-witness
 Malolo if whereabouts demand it).
+
+### 2026-07-07 — Theme forge run; three candidate families delivered (Fable pass 8)
+**Decision.** Ran a 29-agent forge (film-core study across 25 acclaimed philosophical
+films; full corpus re-read; three independent synthesizers; three-lens adversarial panel
+per conception) to find the novel's philosophical core, per Jake's directive that theme
+is "the most important part of the whole project." Six conceptions judged, five
+survived, resolving into three families now in `novel/THEME_CANDIDATES.md`: **A. The
+Mirror** (first contact — can we ever see anything but ourselves; Solaris under sail;
+the encountered world keeps passing the test the expedition fails), **B. The Signal**
+(light-lag and custody — whom are you speaking to when no answer can come; the memoir as
+the pin laid down or the pin swung at last), **C. The Second Signing** (consent — would
+you sign again, knowing everything; the re-enlistment articles under the gallows-rig).
+Recommendation marked ★: the Signal as core, the Mirror as encounter-grammar, the
+Second Signing as Charlie's spine-decisions. Correction adopted from the panel: Vendovi's
+captivity was two years, not four. New load-bearing gates: GAP 2 (1890 frame) and GAP 5
+(encountered-world witnesses) promoted to theme-critical.
+**Why.** The earlier want-grid themes were theses, not questions; the film study supplied
+the laws (question felt before understood; metaphor literally true; openness structural;
+the Other never the mirror's furniture; the talky climax needs a body) and the corpus
+re-read proved which questions this material natively dramatizes.
+**Reversal cost.** None until Jake rules; the menu is additive. Once a family is chosen,
+OUTLINE.md goes to v0.2 and the research execution order re-ranks.
