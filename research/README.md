@@ -22,6 +22,7 @@ base narrative: the base tells the story; these files hold the raw material with
 | `other-eyewitnesses.md` | Colvocoresses 1852/1855 (midshipman, Emmons overland); J.G. Clark 1848 (second forecastle voice) — public domain, full texts local | **acquired** — identity-verified; harvests pending |
 | `period-texture.md` | indirect/contextual: the world of 1838–42, sailor dailiness, joys, grievances, normal-then-crazy-now, dress, social fabric | **authored** — [W]-class throughout, [VERIFY] discipline; fuel for dossier 03 |
 | `modern-lens.md` | what modern psychology, medicine, ocean/earth science, and historiography add that the sources couldn't know | **authored** — governed by T1/T2/T3 usage tiers; the wonder-aside's fuel depot |
+| `equipment-and-the-age.md` | the instrument chest and ship-machine, how each tool worked; the state of discovery 1838–42; the age's resonant contemporaries; time-as-equipment (incl. the priority-fight calendar question) | **authored** — [W]-class, [VERIFY] discipline; generates 6 new harvest questions |
 
 ## Conventions
 
