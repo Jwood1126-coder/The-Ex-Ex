@@ -1,8 +1,10 @@
 # THEME — The Candidates (v1.0)  ·  [NOVEL]
 
-> **Status:** DECISION MENU — Fable, 2026-07-07. Awaiting Jake's ruling; this supersedes the
-> want-grid themes floated in conversation (the wanting / the ledger / disillusionment /
-> being-seen), all of which survive inside the candidates below as harmonics.
+> **Status:** RULED — Jake adopted the Part 4 ★ recommendation (2026-07-07): the Signal
+> as core, the Mirror as encounter-grammar, the Second Signing as Charlie's
+> spine-decisions. Executed in `OUTLINE.md` v0.2. This file remains the record of the
+> field and the fallbacks; it supersedes the want-grid themes floated in conversation
+> (the wanting / the ledger / disillusionment / being-seen), which survive as harmonics.
 > **Method.** A 29-agent forge: five analyst teams on the philosophical cores of 25
 > acclaimed films (space/expedition, first-contact, crew-and-mission, empire epics,
 > witnessed-greatness dramas); three readers back through the full corpus (manuscript,

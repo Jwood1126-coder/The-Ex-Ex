@@ -244,3 +244,24 @@ the Other never the mirror's furniture; the talky climax needs a body) and the c
 re-read proved which questions this material natively dramatizes.
 **Reversal cost.** None until Jake rules; the menu is additive. Once a family is chosen,
 OUTLINE.md goes to v0.2 and the research execution order re-ranks.
+
+### 2026-07-07 — Theme RULED: the Signal; outline rebuilt to v0.2 (Fable pass 9)
+**Decision.** Jake adopted the theme forge's ★ recommendation: the book's core is THE
+SIGNAL (reaching people across the lag between sending and arriving — the pin as the
+instant message refused, the memoir as the slow message sent), with the Mirror as the
+encounter chapters' grammar and the Second Signing as Charlie's two spine-decisions.
+`novel/OUTLINE.md` rebuilt to v0.2: every beat carries a theme move; the forge's
+found-scene bank threaded in (dictated letters, mailbag chapters, skylark diptych, T3
+tableau, Agate sitting, Columbia bar, crates cross-cut, blank page, desk-as-second-
+signing); liberties register formalized with exactly one T3 (the articles/gallows-launch
+adjacency, disclosed); 05 Part VI decisions 1 (frame = F2) and 5 (Utiroa flat-voice)
+recorded as settled by the theme ruling. Openness is structural and governs the wanting
+and the writing only — the killing stays adjudicated once, at Malolo.
+**Why.** The Signal's metaphor is literally true in 1838 (film law: the frame must never
+need arguing); it gives the already-adopted two-documents architecture its heart; its
+climax mechanic (the reader as the pin night's only corroborating witness, watching the
+old man choose the words) is the strongest ending in the judged field.
+**Reversal cost.** Moderate and falling: v0.1 is in git; the fallback families (Mirror
+alone, Second Signing alone) are fully worked in THEME_CANDIDATES.md. The in-flight
+gate harvest (wf_f79b5783) derisks the two floors the choice made critical (GAP 2, the
+TYBTM Signal questions) before drafting begins.
