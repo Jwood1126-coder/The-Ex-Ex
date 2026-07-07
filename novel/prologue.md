@@ -1,41 +1,31 @@
-# PROLOGUE — THE WEATHER ROLL  ·  draft v0.2 (post-review)
+# PROLOGUE — THE WEATHER ROLL  ·  draft v0.4 (post-review)
 
-> **Status:** DRAFT — Fable, 2026-07-07. v0.1 reviewed by a four-lens adversarial panel
-> (voice law / fact floor / theme discipline / craft bar); all four blockers and the
-> should-fixes applied. Beat: the three-payment pin design, payment one — the old man,
-> the book, the night **up to the suspended pin; stops before the choice.**
-> **Evidence floor:** `research/1890-frame.md` (1890 self-publication, covers, title
-> page, portraits, panorama incl. Rauner scene list, sole-survivor-as-belief) and
-> `research/erskine-harvest.md` §2 (the pin scene, TYBTM pp. 19–20, F6/F7). Erskine's
-> written sentence quoted verbatim [E]. Wilkes' substantive rank (lieutenant) is
-> [E-base, act_1/act_2]. "The man who had ordered him flogged" is Erskine's own
-> attribution (pp. 15, 19). Adopts the harvest corrections: Wilkes AWAKE at the chart;
-> the flogging prior to the voyage, present here only as fuse (colt, oath).
-> **Liberties ([I]/[W], declared):**
-> - **The pen death-grip is the pin's attested death-grip (p. 20) transposed to the
->   writing night — invention; the echo is deliberate.**
-> - The writing-night's particulars (proofs on the table, the manuscript's position).
-> - Panorama staging: the pointer invented; rollers are [W] moving-panorama form; the
->   scene list follows the Rauner finding aid ⚑ verify against scans.
-> - The panorama's omission of the pin night — entailed by the attested fifty-year
->   secrecy, still inference.
-> - Watch-change staging (the crossing passed station to station) — built from the
->   harvest's lookout-chain grounding, event invented.
-> - The skylight propped open; the pin's fist-fill and heft; pin-rack position — all
->   staging pending the deck-geography brief ⚑.
-> - The colt's whipped ends — [W] ropework texture.
-> - "He was sixteen" — base's age; birth year 1822/23 unresolved ⚑ (15 if 1823).
-> - Portrait captions rendered as naming, not quoted in full; punctuation pending page
->   images ⚑.
-> - "In an instant it was over the skylight" — unmarked echo of Erskine's own sentence
->   (p. 19), licensed.
-> - The record's "longitude 4° west" is geographically impossible as printed (OCR or
->   witness error ⚑) and is kept OUT of the prose; flagged in the research file.
-> - "He let it stand" — design choice: the old man complicit in his own rounding; keeps
->   the confession/self-forgiveness readings equally live.
-> **Voice budgets (01):** wonder-asides 0/1; universalizing aside 1/1 ("He was a
-> sailor…"); binding sentence de-gnomicized to free-indirect; explicit both-hands
-> sentences 0; no banned vocabulary; explained irony 0.
+> v0.4 (2026-07-07): panel fixes to the v0.3 teach-clauses — the pin teach ends at its
+> function (the hammer sentence now makes the weapon alone); the defensive "not aloft"
+> negation cut; "after corner" → "rear corner"; a coxswain teach added for the caption.
+
+> **Status:** DRAFT — Fable, 2026-07-07. v0.2 passed the four-lens panel; v0.3 applies
+> Jake's directive: the reader has never been aboard a ship — every position, height,
+> and working term must paint its own picture (the landsman's-eye rule, now codified in
+> dossier 02). Changes: Charlie's position taught (on deck, not aloft; one deck above
+> the commander); skylight, belaying-pin, eight bells, and the weather roll each get
+> their picture; "break of the quarterdeck" jargon dropped; the flagship named.
+> **Evidence floor:** `research/1890-frame.md`; `research/erskine-harvest.md` §2 (TYBTM
+> pp. 19–20, F6/F7). Erskine's written sentence verbatim [E]. Wilkes' substantive rank
+> [E-base]. "The man who had ordered him flogged" is Erskine's own attribution (pp. 15,
+> 19). Wilkes AWAKE at the chart per the primary.
+> **Liberties ([I]/[W], declared):** the pen death-grip = the pin's attested death-grip
+> (p. 20) transposed to the writing night — invention, echo deliberate; writing-night
+> particulars; panorama staging (pointer invented; rollers [W]; scene list per Rauner
+> finding aid ⚑); the panorama's omission of the pin night (entailed, still inference);
+> watch-change word-passing; skylight propped open, pin's heft, pin-rack position (deck
+> brief pending ⚑); colt's whipped ends [W]; "He was sixteen" (birth 1822/23 ⚑);
+> captions as naming, punctuation pending page images ⚑; "In an instant" = unmarked
+> Erskine echo; the impossible "longitude 4° west" kept OUT of prose ⚑; "He let it
+> stand" = the old man complicit in his rounding, by design; pin described as
+> forearm-length rope-anchor [W] pending deck brief.
+> **Voice budgets (01):** wonder-asides 0/1; universalizing 1/1 ("He was a sailor…");
+> explained irony 0; both-hands 0; no banned vocabulary.
 
 ---
 
@@ -57,8 +47,9 @@ sailed, he believed himself the last one living. He was telling it the way it ha
 
 Two portraits would face the title page. The first was a daguerreotype from Court
 Street, taken in 1842, the year the ships came home; the caption named him *Charlie
-Erskine, late coxswain of the United States brig* Porpoise. The second was a photograph
-from Washington Street, taken in 1882: *Mr. Charles Erskine, the author.* Forty years
+Erskine, late coxswain of the United States brig* Porpoise. A coxswain is the man
+trusted with the tiller of a ship's boat. The second was a photograph from Washington
+Street, taken in 1882: *Mr. Charles Erskine, the author.* Forty years
 lay between the sittings. The boy in the daguerreotype had signed his ship's articles
 with a mark, because a mark was the only thing he knew how to make.
 
@@ -73,32 +64,35 @@ out of Hampton Roads. There was no canvas now, nothing to let roll past.
 
 *  *  *
 
-Eight bells went at midnight, and the ship crossed the Tropic of Cancer. The word of it
-had gone round the deck at the change of the watch, station to station, and gone quiet
-again. The weather had been fine for days. The ship carried a slight roll, and
-otherwise silence held the deck.
+Eight bells went at midnight — the strokes that end one watch and set the next — and
+the flagship *Vincennes* crossed the Tropic of Cancer. The word of it went round the
+deck, station to station, and the deck went quiet again. The weather had been fine for
+days. The ship carried a slight roll, and otherwise silence held her.
 
-Charlie had just relieved the lookout on the lee quarter. He was sixteen. From where he
-stood he could look down through the cabin skylight, propped open to the heat, and the
-cabin below was lit.
+Charlie had just relieved the lookout on the lee quarter — the rear corner of the
+deck, at the rail, on the side sheltered from the wind. He was sixteen. He stood on the
+deck itself, and set into the planks beside his station was the cabin skylight: a low
+frame of glass, propped open to the heat, with lamplight coming up through it.
 
-Below him, at a table, sat the commander of the squadron, awake. The men called him the
-commodore; the Navy List called him a lieutenant. He was tracing out a chart, alone.
+Down through the opening, at a table, one deck beneath the boy's feet, sat the
+commander of the squadron, awake. The men called him the commodore; the Navy List
+called him a lieutenant. He was tracing out a chart, alone.
 
 Charlie looked down at him for some time. This was the man who had ordered him flogged.
 He remembered his oath. He could still feel where the colt had cut him.
 
-The officer of the deck turned at the break of the quarterdeck and walked forward, his
-back to the lee quarter.
+The officer of the deck turned and walked forward, up the ship, his back to the lee
+quarter.
 
-The rack at the rail held iron belaying-pins. He took one out. It filled his fist,
-heavy as a blacksmith's hammer. In an instant it was over the skylight, over the bent
-head below.
+The rack at the rail held belaying-pins — iron bars the length of a man's forearm, set
+there to anchor the running ropes. He took one out. It
+filled his fist, heavy as a blacksmith's hammer. In an instant it was over the
+skylight, over the bent head below.
 
 He waited.
 
 He was a sailor, and he did not mean to waste the blow. He was waiting for the weather
-roll.
+roll, when the whole ship would lean with him.
 
 *  *  *
 

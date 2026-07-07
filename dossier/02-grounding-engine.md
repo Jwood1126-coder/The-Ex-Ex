@@ -530,3 +530,35 @@ routed to the read-throughs (Erskine → Reynolds journal → Wilkes, per PROJEC
   keep": *"Telling is a distance, not an altitude — the narrator renders the world in his own
   sentences; quotes are witnesses, not eyes."* Proposed, not made; the style guide is law and
   changes by Jake's hand.
+
+---
+
+## Addendum (2026-07-07, Jake's directive) — THE LANDSMAN'S EYE
+
+**The rule.** The reader has never been aboard. Every working term, position, and piece
+of the ship earns its picture on first use, or it does not appear. Positions are given
+in body terms — how high, what is underfoot, what stands between the watcher and the
+watched — before any nautical name is allowed to carry them.
+
+**The license.** This is not a modern concession; it is the memoir's own register.
+Erskine writes for landsmen and explains as he goes ("in those days sailors wore
+tarpaulin hats"; "The colt is a piece of rope about three feet long and half an inch
+thick"). The narrator inherits that habit as period voice, not footnote voice.
+
+**Techniques, in order of preference:**
+1. **Teach through consequence** — what the thing does to a body: a belaying-pin is
+   "set there to anchor the running ropes, and loose in the hand a club."
+2. **Apposition gloss** — the picture rides the term in one clause: "eight bells — the
+   strokes that end one watch and set the next."
+3. **Body-relative staging** — "he was not aloft; he stood on the planks of the deck
+   itself, and the commander sat one deck beneath his feet."
+4. **Drop the jargon** when the picture works without it ("the break of the
+   quarterdeck" → "he turned and walked forward, up the ship").
+
+**Budgets.** One teach-clause per object, once per book (a term re-taught is a term
+distrusted); never an encyclopedia detour (STYLE_GUIDE cut #3 governs); scale always
+physical and familiar (a forearm, a blacksmith's hammer, thirty paces).
+
+**Infrastructure.** The deck-geography brief (GAP 3) is hereby also reader-legibility
+infrastructure: it must record not only where things stood but the plainest true words
+for them.

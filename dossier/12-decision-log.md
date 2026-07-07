@@ -284,3 +284,26 @@ lawful before it was committed.
 **Reversal cost.** None — a draft file; Jake's read rules. Spine-grade corrections
 flagged in dossier/11 await his `fact:` ratification (they touch CLAUDE.md's own spine
 line).
+
+### 2026-07-07 — The landsman's eye codified; Chapter One landed; prep fleet running (Fable pass 11)
+**Decision.** (1) Jake's directive — readers unfamiliar with ships must always be able
+to see positions, heights, and objects — codified as the LANDSMAN'S EYE addendum in
+dossier/02 (teach through consequence; apposition gloss; body-relative staging; drop
+jargon when the picture works without it; one teach per object per book), with the
+memoir's own explaining register as the period license. Prologue revised to v0.4 under
+the rule. (2) Chapter One ("The Gunner's Daughter") drafted in the primary's true
+chronology and passed through the four-lens panel (a legibility lens now standing);
+v0.2 applies all blockers — explained irony cut, the flogging verdict-tail replaced
+with the yard shown working, the gun unnumbered per harvest F5, the yard-return
+geography rebuilt on the record's landing-and-boat picture, and Wilkes' introduction
+corrected where v0.1 contradicted the base ("passed over" → "abler sea-officers than it
+could employ"). pp. 1–16 evidence deposited in erskine-harvest.md Part I.b. (3) The
+book-prep fleet (wf_b1b67759) runs in background: deck-geography brief, Erskine
+front-to-back in four spans (incl. the Acts III–IV density question and the Malolo
+whereabouts question), Reynolds' Fiji whereabouts, and Wilkes v3's Malolo/Vendovi/
+Underwood extractions — the preparations gating every next chapter.
+**Why.** "Any and all preparations needed to make the best possible product" — the
+pipeline is now: research floor → draft → adversarial panel → revise → commit, with
+legibility a standing lens.
+**Reversal cost.** None; drafts are files, rules are additive, and every provisional
+staging choice is declared in its chapter header.

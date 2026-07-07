@@ -191,3 +191,39 @@ full harvest, but alternation is not starving.
 **Continuation protocol:** work the anchor table first, then read front-to-back filling the
 coverage map with page-cited entries; every extraction updates Part I (verified) and
 retires its map line; conflicts go to `dossier/11` and `fact:` commits.
+
+---
+
+## Part I.b — pp. 1–16 verified deposits (gates harvest + chapter-1 audit, 2026-07-07)
+
+Verified against the 1890 OCR (`twentyyearsbefor00ersk`); OCR drops opening quote marks
+— re-check punctuation against page images before print. These are the chapter-1
+evidence floor:
+
+- **p. 3:** "I was sent to school, but very seldom went." Childhood Boston; the Spurr
+  house, Commercial Street. **p. v:** "no college or even common school education."
+- **pp. 3–4:** the mother's first blessing, back room, Commercial Street: "God bless
+  you, my son! Be a good boy, obey your captain, and never forget to say your prayers."
+- **p. 7:** first navy articles — "Then, being ordered to sign them by the captain, I
+  made my mark, as I was unable to write at the time." (OCR 681–684; mark's shape not
+  given.) Discharged as coxswain at Norfolk on that cruise.
+- **pp. ~54–55:** to Daniel French: "It was always mother, mother, mother with me."
+  (His own sentence about himself — no external witnesses attested.)
+- **pp. 10–12:** the errand-and-flogging sequence as §1 above (Bowditch p. 10; agent's
+  letters incl. **the sailing orders the captain expected** [OCR 862–866]; "hurry and be
+  quick"; the second stop at the mother's; the draw; "explained my adventure" near the
+  dry dock; the landing where the boat was, "mad as a hornet" [OCR ~851]; Boyle at the
+  gangway; the colt over the gun; right hand / knuckles; "not more than a quarter of a
+  mile in a straight line" [OCR 844–848]; "could not sit down with any comfort for
+  several weeks"; "My ambition was gone, yes, whipped out of me, — and for nothing. This
+  has been the case with many a sailor." [OCR 857–862]; "We sailed the next day for the
+  south.")
+- **p. 15 (Hampton Roads muster):** "it was Commodore Wilkes at whose command I had
+  been flogged" (OCR 1003–1008) — Erskine's own attribution over Boyle's spoken order.
+- **p. 16 (boarding the Vincennes):** "I felt more like jumping overboard than sailing
+  with my worst enemy, and one on whom I had sworn to be revenged." (OCR 1021–1023) —
+  the oath in past-perfect; **no oath scene is narrated anywhere** (exhaustive search;
+  see 1890-frame Part IV.5).
+- **The flogger's hand is unnamed** in the record ("I was seized and placed over the
+  breech… and whipped with the colt") — Boyle's order went to the boatswain; drafts
+  staging the boatswain as the hand carry ⚑.
