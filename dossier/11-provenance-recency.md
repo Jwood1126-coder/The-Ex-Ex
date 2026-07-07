@@ -101,3 +101,18 @@ hand with page; Jake's spot-check against the scan/his copy converts each to a `
   timeline's Jan 22 for the *Peacock* ice strike (record: Jan 24).
 - Dead note (never re-admit): "iron hulls fitted to crush ice" (Ex. Ex. References doc) —
   contradicts the verified unstrengthened-hulls record.
+
+**Settled or refined by Wilkes' *Narrative* (pages in `research/wilkes-narrative-harvest.md`):**
+- **Malolo village names: Sualib and Arro** (v3, "Upon the island there are two towns…") —
+  PROJECT_NOTES §3 soft spot settled; Ringgold commanded the landing (chapter head).
+- **Honolulu floggings named and counted**: Ward 12×3, Riley 16×3, Sweeny 8×3 — flogged
+  through the fleet from a launch rigged with platform and gallows (v4 Appendix ~p. 545,
+  Wilkes' own General Order, Oct 28, 1840).
+- ⚑ **Mechanism refinement for act_5 ch. 28**: the base's "by the commander's sole order…
+  absent a court-martial" vs. the document's Wilkes-convened court-martial whose *legality*
+  was the contested point — reconcile with the 1842 trial record before rewording.
+- **Piner's Bay named for the signal quartermaster Piner** — a named enlisted man behind a
+  map-name (cast Class-2 roster) [VERIFY spelling].
+- New primary material located, unextracted: **Vendovi's leave-taking with his brothers**
+  (v3 chapter head — debt #1); **"Imprudence of Lieutenant Underwood"** pre-Malolo episode
+  (v3 — cast want #9); the captured cutter in Sualib Bay as Malolo context.

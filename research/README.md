@@ -18,8 +18,8 @@ base narrative: the base tells the story; these files hold the raw material with
 | `erskine-harvest.md` | Erskine, *Twenty Years Before the Mast* (1896) — public domain, full text local | **in progress** — key scenes verified pp. 10–21; coverage map ingested; front-to-back harvest continuing |
 | `reynolds-digest.md` | Jake's Play Books highlights of *The Private Journal of William Reynolds* (Penguin 2004) | **complete for existing notes** (25 highlights) — full journal read remains Jake's |
 | `drive-archive-digest.md` | Jake's Drive docs: Erskine Accounts, Erskine Timeline, Ex. Ex. References, research mega-doc | inventoried + key findings; mega-doc processing pending |
-| *(planned)* `wilkes-narrative-harvest.md` | Wilkes, *Narrative* (1844) — public domain | not started; targeted dips per debt list |
-| *(planned)* `colvocoresses-harvest.md`, `clark-harvest.md` | Colvocoresses 1852/1855; J.G. Clark 1848 — public domain eyewitnesses | not started; fresh seams no synthesis has mined |
+| `wilkes-narrative-harvest.md` | Wilkes, *Narrative* (1844/45) — all 5 vols, public domain, full texts local | **in progress** — Honolulu General Orders (named floggings), the capitulation-crawl custom, Piner's Bay verified; Malolo/Vendovi/Underwood anchored |
+| `other-eyewitnesses.md` | Colvocoresses 1852/1855 (midshipman, Emmons overland); J.G. Clark 1848 (second forecastle voice) — public domain, full texts local | **acquired** — identity-verified; harvests pending |
 
 ## Conventions
 
