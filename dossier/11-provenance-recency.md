@@ -133,3 +133,24 @@ hand with page; Jake's spot-check against the scan/his copy converts each to a `
   discoveries pre-trial, Poinsett present (Niles' June 25) [VERIFY date].
 - **Paulding's private instructions of Dec. 1839 published mid-trial** (Niles' Aug. 20);
   **Johnson acquitted** of Wilkes' "wasting the public property" charge (same issue).
+
+**1890-frame harvest additions (2026-07-07, `research/1890-frame.md` — spine-grade):**
+- ⚑ **CORRECTION: the flogging predates the expedition** — coast-survey *Porpoise*,
+  Charlestown Navy Yard, ~fall 1837, Wilkes commanding, Boyle's order (TYBTM pp. 10–11,
+  15). Base act_1 ch. 5 and CLAUDE.md's spine ("1838, mid-Atlantic… flogged") need
+  `fact:` correction — the mid-Atlantic night is the pin, not the lash.
+- ⚑ **CORRECTION: Wilkes is awake at the pin moment**, "tracing out a chart" (p. 19) —
+  CLAUDE.md's "sleeping commander" does not match the primary.
+- ⚑ **Edition discipline:** Archive.org text = 1890 FIRST edition, self-published
+  ("Boston: Published by the author"); the repo's "Erskine 1896" is the Jacobs trade
+  edition. Cite by edition; Wikisource carries 1896.
+- ⚑ "Longitude 4° west" at the Tropic of Cancer (p. 19) is geographically impossible as
+  printed — OCR digit or witness error; verify against page image; if Erskine's error,
+  keep as error (rule 5 spirit).
+- ⚑ Erskine birth year 1822 vs 1823 (Dartmouth internal discrepancy) — decides whether
+  the pin-night boy is 15 or 16; MA vital records.
+- Settled [E]: the wet letters were the ship's official mail incl. the expected sailing
+  orders; the oath is asserted, never shown (true gap — [I] licensed); the literacy arc
+  complete and dated (yeoman/Rio/"mother" → Honolulu full-name signature at
+  re-enlistment → Maine academy); the 1859 panorama documented (Dartmouth Rauner);
+  Erskine d. 1900.

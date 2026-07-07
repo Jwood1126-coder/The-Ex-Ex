@@ -265,3 +265,22 @@ old man choose the words) is the strongest ending in the judged field.
 alone, Second Signing alone) are fully worked in THEME_CANDIDATES.md. The in-flight
 gate harvest (wf_f79b5783) derisks the two floors the choice made critical (GAP 2, the
 TYBTM Signal questions) before drafting begins.
+
+### 2026-07-07 — First prose drafted: the prologue, forge-reviewed (Fable pass 10)
+**Decision.** At Jake's commission ("Start with the first draft of the story… a
+masterpiece"), drafted the novel's prologue (`novel/prologue.md`, "The Weather Roll"):
+the 1890 desk and the pin night up to the suspended pin, stopping before the choice per
+the three-payment design. Floor built first: the 10-agent gates harvest closed GAP 2 to
+first-draft standard (`research/1890-frame.md`) and answered the Signal questions from
+the 1890 text itself. Draft v0.1 was then attacked by a four-lens adversarial panel
+(voice law, fact floor, theme discipline, craft bar); all four blockers applied in v0.2
+(explained-irony sentence cut; pen death-grip declared as transposed invention;
+theme-announcing clause cut; the flogging-attribution fuse restored in Erskine's own
+terms) plus the should-fixes. The crown-jewel exemplar policy is not breached: that
+policy barred *demonstrations* in the dossier; this is the commissioned novel draft.
+**Why.** The harvest made the scene honest before it was written (Wilkes awake at the
+chart; flogging pre-voyage; the 1890 self-publication real), and the review made it
+lawful before it was committed.
+**Reversal cost.** None — a draft file; Jake's read rules. Spine-grade corrections
+flagged in dossier/11 await his `fact:` ratification (they touch CLAUDE.md's own spine
+line).

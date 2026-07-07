@@ -25,6 +25,7 @@ base narrative: the base tells the story; these files hold the raw material with
 | `equipment-and-the-age.md` | the instrument chest and ship-machine, how each tool worked; the state of discovery 1838–42; the age's resonant contemporaries; time-as-equipment (incl. the priority-fight calendar question) | **authored** — [W]-class, [VERIFY] discipline; generates 6 new harvest questions |
 | `gap-analysis.md` | the professional audit: 10 ranked gaps, corpus self-audit, Jake's acquisition list, execution order | **authored 2026-07-07** — re-run after each major tranche |
 | `press-harvest.md` | the squadron through the newspapers' eyes — Niles' Register homecoming-to-verdict season (the verbatim reprimand, the trial machinery, the marines' civil suits); The Polynesian handoff map; Trove/NY targets | **in progress** — Niles' June–Oct 1842 harvested; LOC blocked from this env (Jake's browser) |
+| `1890-frame.md` | the writing-present of TYBTM: the 1890 self-publication as object, the old man's asides, the man in 1890 (panorama documented), corrections it forces | **authored 2026-07-07** — GAP 2 closed to first-draft standard; biographical wants remain |
 
 ## Conventions
 
