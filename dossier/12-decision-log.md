@@ -186,3 +186,19 @@ weather roll — TYBTM pp. 19–20) and settled soft spots (Bowditch ~p. 10; Boy
 the bridge draw; "foul scamp" wording; Case & Knox) — proof the layer earns its keep.
 **Reversal cost.** Low structurally (additive directory). The findings, once committed as
 `fact:` changes, are governed by the normal commit history.
+
+### 2026-07-07 — Modern-knowledge usage tiers adopted (Fable pass 5)
+**Decision.** All retrospective/modern knowledge (`research/modern-lens.md`) enters the
+book under three tiers: **T1** wonder-aside fuel (narrator may say it, on the existing
+one-per-chapter budget, witness-filtered when possible); **T2** mechanism knowledge (shapes
+scenes and behavior, never named in the text — exits the pen wearing 1840's clothes);
+**T3** hazard (informs the author's judgment, banned from the page in any form — framework
+vocabulary, diagnoses, modern moralizing). Companion file `research/period-texture.md`
+holds the [W]-class contextual layer (world events, sailor dailiness, dress, social
+fabric), all tagged and story-tethered.
+**Why.** The author asked for indirect research for texture and immersion, including what
+modern psychology, medicine, and earth science can supply that the sources couldn't. The
+tiers let that material enrich the book without anachronism leaking into the voice
+(STYLE_GUIDE tell #3; grounding anti-pattern 3) — and they make misuse checkable at review.
+**Reversal cost.** Low as structure; high in practice if ignored — untiered modern
+knowledge is exactly how period voice dies.
