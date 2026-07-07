@@ -1,6 +1,6 @@
 # CLAUDE.md — Operating Instructions for AI Sessions
 
-This repo is the master source for **The Ex. Ex.**, a book about the United States Exploring Expedition (1838–1842). Any Claude session working here — Claude Projects, Claude Code, Codespaces, chat — starts by reading this file, then `STYLE_GUIDE.md`, then `PROJECT_NOTES.md` §2 and §5.
+This repo is the master source for **The Ex. Ex.**, a book about the United States Exploring Expedition (1838–1842). Any Claude session working here — Claude Projects, Claude Code, Codespaces, chat — starts by reading this file, then `STYLE_GUIDE.md`, then `PROJECT_NOTES.md` §2 and §5, then `dossier/00-operating-manual.md`.
 
 ## What this repo is
 A **base narrative**: the complete story, told (not shown), fact-checked, in the project's fused voice. It is the reference from which the novel will be written. The novel does not exist yet; it will live in `novel/` when it does.
