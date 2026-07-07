@@ -202,3 +202,23 @@ tiers let that material enrich the book without anachronism leaking into the voi
 (STYLE_GUIDE tell #3; grounding anti-pattern 3) — and they make misuse checkable at review.
 **Reversal cost.** Low as structure; high in practice if ignored — untiered modern
 knowledge is exactly how period voice dies.
+
+### 2026-07-07 — First novel outline authored: "The Pin and the Pen" (Fable pass 7)
+**Decision.** Created `novel/OUTLINE.md` (v0.1) at Jake's direction — the first outline,
+with a hero's-journey/epic architecture. Conception: Charlie carries the monomyth with
+both hinges inverted (the threshold trial is the *refusal* at the skylight; the elixir is
+*testimony* — the pin becomes the pen), Wilkes carries the shadow epic (same monomyth,
+boon seized, every return-gift refused, the Upshur reprimand as his atonement-with-the-
+father), Reynolds carries the apostasy arc. Frame F2 (the two documents), movement-scale
+POV, six parts + prologue/coda, Malolo as the braid junction and abyss, the trial as the
+underworld of paper, nostos denied as the back half's shape. All 05 Part VI items adopted
+as ★-recommendations are marked PROVISIONAL and reversible; a liberties register names
+every invention and its gate class; monomyth stations are scaffolding only, never named
+in the text (same rule as T2 modern knowledge).
+**Why.** Jake asked for a first outline true to the sources with creative liberties for
+storytelling and "some kind of hero's journey element… a sort of epic." A straight
+Campbell arc would tilt the ledger (the boon is blood-bought); the inverted hinges keep
+the epic and the double ledger in the same hand.
+**Reversal cost.** Low — one additive file; every provisional choice lists its fallback
+(F1 if F2 falls; generic-forecastle camera if Erskine starves the traverse; direct-witness
+Malolo if whereabouts demand it).
