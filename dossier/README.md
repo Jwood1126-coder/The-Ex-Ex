@@ -26,17 +26,17 @@ the book. Any structural change gets an entry in `12-decision-log.md`.
 | # | File | Fed by commission | Status |
 |---|------|-------------------|--------|
 | 00 | operating-manual.md | K | seeded (recipes pending) |
-| 01 | voice-bible.md | A | stub |
-| 02 | grounding-engine.md | B | stub (priority) |
+| 01 | voice-bible.md | A | **authored** — Fable pass 2, 2026-07-07 |
+| 02 | grounding-engine.md | B | **authored** — Fable pass 1, 2026-07-07 |
 | 03 | world-bible.md | C | stub |
-| 04 | cast-bible.md | D | stub |
-| 05 | architecture-critique.md | E | stub |
-| 06 | double-ledger.md | F | stub |
+| 04 | cast-bible.md | D | **authored** — Fable pass 3, 2026-07-07 |
+| 05 | architecture-critique.md | E | **authored** — Fable pass 2, 2026-07-07 |
+| 06 | double-ledger.md | F | **authored** — Fable pass 3, 2026-07-07 |
 | 07 | scene-bank.md | G | stub |
 | 08 | chapter-map.md | G | stub |
 | 09 | cold-opens.md | H | stub |
 | 10 | throughlines.md | I | stub |
-| 11 | provenance-recency.md | J | seeded (pointer) |
+| 11 | provenance-recency.md | J | seeded + pass-findings table (2026-07-07) |
 | 12 | decision-log.md | K | seeded |
 
 ## Conventions

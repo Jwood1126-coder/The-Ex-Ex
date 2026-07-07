@@ -24,4 +24,38 @@ Flags only; this file never changes the base. Resolutions become `fact:` commits
 source. [VERIFY] everything unconfirmed.
 
 ---
-*(seeded — awaiting the Fable pass to build the table)*
+
+## Findings filed by the Fable passes (2026-07-07)
+
+New items surfaced by passes 1–3 — *additional to* the PROJECT_NOTES §3 soft-spot list, which
+still gets its own rows when Commission J runs in full. All [VERIFY]; none changes the base
+until a `fact:` commit resolves it.
+
+| item | issue | source to check | filed by | status |
+|---|---|---|---|---|
+| Reynolds' age at sailing | preface says 22, act_1 ch. 7 says 23 | birth date — F&M Reynolds Family Papers timeline | 04 §I | open |
+| Death-toll consistency | flat "twenty-eight" in preface + ch. 1 vs. the honest range in ch. 31 (rule 5) | style decision, then `voice:`/`fact:` commit | 06 §V | open — Jake's call |
+| Malolo witness whereabouts | were Reynolds or Erskine at/near Malolo July 24–26, 1840? Gates the novel's Malolo design (06 §VI) | Reynolds journal; Erskine TYBTM | 06 §VI | open — architecture-grade |
+| Erskine's Act III–IV coverage | how much body does TYBTM give Tahiti–Sydney and the ice? Gates POV alternation (05 Part 0) | Erskine TYBTM, whole read | 05 §0 | open — architecture-grade |
+| "Like the ship being opened with an axe" | attributed to "men said" (ch. 23); provenance unconfirmed | Reynolds journal Jan 24–26, 1840; Peacock officers' accounts | 02 §VI.2 | open |
+| Vendovi's ship and dailiness | which vessel carried him; quarters, mess, occupations | Erskine; Wilkes *Narrative*; Reynolds | 02 §VI.4 | open — dignity-critical |
+| Honolulu flogging specifics | names, counts, dates; Erskine eyewitness? | Erskine; Stanton/Philbrick pointers (facts only) | 02 §VI.1 | open |
+| Trial evidence mechanics | how the required journals / written opinions actually entered the 1842 courts-martial | trial records via Stanton pointers; Reynolds letters | 05 §II | open |
+| Bowditch's death vs. the blessing | Bowditch died 1838 — was the "neatest charts" scene among his last acts? Date both | Erskine (the boy was present); Bowditch biography | 04 §I | open |
+| Couthouy–Wilkes conflict | documented collision (suspension?) — Braid 2 candidate | Stanton pointers; Wilkes *Narrative* | 04 §III | open |
+| Guillou's own case | his suspension/court-martial history | trial records; Stanton pointers | 04 §III | open |
+| Underwood pre-Malolo; Wilkes Henry alive | embodied appearances before July 24, 1840 | Reynolds' boat-duty entries; Erskine | 04 §III | open |
+| Named kanakas; David Smith sentences; John Sac details | Class-2/3 dignity upgrades | Reynolds journal; Erskine; muster records if reachable | 04 §IV | open |
+| Acting-appointment revocation dates | Braid 1's missing 1840–41 rung | Wilkes *Narrative*; Reynolds | 05 §I | open |
+| Jeremiah Reynolds' exclusion | did the prophet seek/get refused a berth? (coda-line candidate) | Stanton pointers; period press | 04 §III | open |
+| Whippy's afterlife | consular standing / later life for a coda line | Wilkes *Narrative*; secondary pointers | 04 §III | open |
+
+**Recency flags (training-cutoff honest):** none asserted yet. This model's knowledge ends
+January 2026 and no post-2004 scholarship shift is claimed from memory; when Commission J runs
+in full it should check (a) any new edition/scholarship on the Reynolds journal since the 2004
+publication, (b) recent Smithsonian/Ex. Ex. digital-collection additions, (c) current
+consensus on the d'Urville/Wilkes priority literature. Flags only; nothing enters the base
+without a source in hand.
+
+*(§3 soft-spot rows still to be built when Commission J runs — this table is the passes'
+found-items ledger, not the full operationalization.)*
