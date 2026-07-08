@@ -154,3 +154,21 @@ hand with page; Jake's spot-check against the scan/his copy converts each to a `
   complete and dated (yeoman/Rio/"mother" → Honolulu full-name signature at
   re-enlistment → Maine academy); the 1859 panorama documented (Dartmouth Rauner);
   Erskine d. 1900.
+
+**Span-1 harvest corrections (2026-07-08, front-to-back pp. 1–61):**
+- ⚑ **"OLD ADAM" IS NOT WILKES' NICKNAME.** Sole occurrence pp. 15–16: "old Adam came
+  up, and I could not raise my eyes from the deck" — Erskine's own fallen nature at the
+  Hampton Roads muster; Wilkes speaks no word. Jake's timeline gloss and the
+  erskine-harvest Part I §2 V-note wiring are dead; correct before any use.
+- ⚑ **The transfer happened ON SAILING DAY** (p. 16): the commodore's gig alongside
+  between the first and second guns, "bringing orders for me with my bag and hammock";
+  Ringgold "said he wanted me to stay, but that he must obey orders." Wilkes'
+  personal selection is inference from the gig, not stated.
+- **F9 closed:** the oath is retrospective only — no narrated oath scene exists (grep
+  exhaustive). Any staged oath is [I], flagged.
+- **Tahiti p. 78 CONFIRMED:** deserters paid their captors from the capstan, then
+  "thirty-six lashes with the cat" each — `fact:` candidate with page.
+- New named death: **William Stuart**, captain of the maintop (*Peacock*), overboard
+  and lost on the first Antarctic cruise (pp. 47–49) — mortal-ledger candidate;
+  Erskine's "we" compresses other ships' experience (witness-memory artifact, keep as
+  artifact).
