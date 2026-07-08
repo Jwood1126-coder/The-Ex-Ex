@@ -172,3 +172,40 @@ hand with page; Jake's spot-check against the scan/his copy converts each to a `
   and lost on the first Antarctic cruise (pp. 47–49) — mortal-ledger candidate;
   Erskine's "we" compresses other ships' experience (witness-memory artifact, keep as
   artifact).
+
+---
+
+## Batch-B filing flags (2026-07-08)
+
+Filed with the Batch-B research deposits (`research/deck-geography.md`,
+`research/fiji-malolo.md`, `research/encountered-world.md`, `research/afterlives.md`,
+erskine-harvest Parts II.d–e). Status changes only; resolutions still land as `fact:`
+commits.
+
+- **Vendovi's ship — SETTLED (closes the open item above).** Held aboard the *Peacock*
+  from Rewa; transferred to the *Vincennes* July 5, 1840, at Mbua Bay "and remained on
+  board of her until the expiration of the cruise" (Wilkes, *Narrative* v3 pp. 248–249).
+  Full workup in `research/fiji-malolo.md` Part I. Dignity-critical follow-up (quarters,
+  mess, occupations aboard the *Vincennes*) remains open.
+- ⚑ **Malolo death toll — Wilkes' 57 vs the base's 74–104: reconcile.** Wilkes' own
+  page: "They acknowledged a loss of fifty-seven killed" (v3 p. 298), with his note that
+  the ~25 dead of Emmons's canoe fight were probably included — his arithmetic runs 57
+  (inclusive) to ~82 (if separate). Modern survey (Spennemann 2021: 57; Stanton-derived:
+  87; Wikipedia: 74–104) in `research/encountered-world.md` §5. The base's range must
+  not be silently narrowed to the defendant's count; cross-check the 74–104 sources
+  before touching act_5 ch. 27. [VERIFY]
+- ⚑ **Erskine's Malolo date — July 22 vs the base's July 24–26: keep as his error**
+  (rule 5). TYBTM p. 173 dates the attack "On the 22d of July"; Wilkes and the record
+  hold July 24 (killings) / July 26 (reprisal). Note the memoir's internal wobble, cite
+  cautiously, do not import.
+- **Vincennes poop-cabin claim — CORRECTED.** The `[verify]` claim that she "received an
+  added poop cabin/roundhouse for the cruise" is FALSE: Wilkes, *Narrative* I p. xv —
+  "originally single-decked… a light deck was put on her," accommodations "those of a
+  small frigate." The poop-cabin-and-forecastle alteration on the next page (p. xvi) is
+  the **Porpoise's**. Full staging brief in `research/deck-geography.md` §2.
+- ⚑ **act_1 pin-geometry contradiction — already known (F6), now deck-brief-CONFIRMED.**
+  act_1.md lines 10–12 stage Charlie in the top with pins racked beside him; the real
+  geometry (TYBTM pp. 19–20 + Brady 1841) puts him at the lee-quarter lookout on the
+  quarterdeck, pin from a deck rack (tops carried cleats, not pin racks), skylight on the
+  quarterdeck centerline over Wilkes' cabin table. `fact:` commit candidate;
+  `research/deck-geography.md` §§5, 8.
