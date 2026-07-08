@@ -307,3 +307,20 @@ pipeline is now: research floor → draft → adversarial panel → revise → c
 legibility a standing lens.
 **Reversal cost.** None; drafts are files, rules are additive, and every provisional
 staging choice is declared in its chapter header.
+
+### 2026-07-08 — First full draft complete (Fable pass 12)
+**Decision.** The complete first draft of the novel is committed: prologue + chapters
+1–29 + coda (~81K words with headers). Every chapter produced on the line (evidence
+floor → draft → three-lens panel → fix), with model tiering adopted mid-run to protect
+Jake's usage (Fable for crown jewels and cached drafts; Opus for drafting/review;
+Sonnet for the cold-reader lens). Known gaps, declared: ~27 panel lenses failed on a
+structured-output error across the two batches, so some chapters were reviewed by two
+lenses rather than three — the Fable audit pass covers these; every remaining ⚑ is
+declared in its chapter header and consolidated for Jake's `fact:` rulings (headline
+items: Aug 17/18 departure-date reconciliation; act_5 ch. 27 Malolo landing date 26th
+not 25th; Reynolds' Malolo verdict wording pending the Penguin check; Sea Gull
+complement verify; OCR page-image checks before any freeze).
+**Why.** Jake: "I need the rest of the chapters" + "any and all preparations to make
+the best possible product."
+**Reversal cost.** None — drafts in git, headers carry liberties, Jake is the gate.
+Next: the Fable hand-pass on the Pin, Malolo, and the coda; then Jake's read-through.
